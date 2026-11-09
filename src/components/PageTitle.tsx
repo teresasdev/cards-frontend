@@ -7,7 +7,7 @@ function PageTitle() {
           COP 4331 MERN Stack Demo
         </h1>
         <p className="text-secondary small mb-0 fw-semibold">
-          Modern &amp; Accessible Card Management System
+          Now Live on the Internet — COP 4331 Card Management System
         </p>
       </div>
     </header>
